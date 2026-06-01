@@ -119,7 +119,24 @@ BACKTEST_START          = "2023-01-01"
 BACKTEST_END            = "2024-01-01"
 INITIAL_CAPITAL         = 100000
 ```
+## Backtest Results
 
+Tested on NIFTY 50 from 2024-01-01 to 2025-01-01.
+
+Total trades    : 15
+Winning trades  : 12
+Losing trades   : 3
+Win rate        : 80.0%
+Total P&L       : Rs.1883.81
+Avg P&L / trade : Rs.125.59
+Best trade      : Rs.520.32
+Worst trade     : Rs.-172.55
+Final capital   : Rs.101883.81
+Total return    : 1.88%
+Sharpe ratio    : 3.06
+Max drawdown    : -1.15%
+
+![Backtest Chart](data/backtest_results.png)
 ---
 
 ## Tech Stack
