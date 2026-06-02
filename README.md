@@ -2,10 +2,7 @@
 
 A quantitative options trading strategy in Python that uses Implied Volatility 
 percentile ranking to generate straddle trade signals.
-
-Built as a learning project based on a senior's suggestion to combine 
-reverse Black-Scholes, IV ranking, and systematic risk management.
-
+
 ---
 
 ## What This Strategy Does
